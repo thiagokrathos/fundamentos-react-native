@@ -13,8 +13,6 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/thiagokrathos/fundamentos-react-native">
 
-  <img alt="GitHub license" src="https://img.shields.io/github/license/thiagokrathos/fundamentos-react-native">
-
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/thiagokrathos/fundamentos-react-native?style=social">
 </p>
 
@@ -24,7 +22,6 @@
   <a href="#arrow_down_small-clonando-o-repositório">Clonando o repositório</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#beginner-iniciando-a-aplicação">Iniciando a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#wrench-tecnologias--ferramentas--recursos">Tecnologias | Ferramentas | Recursos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">Licença</a>
 </p>
 
 Durante as aulas do [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) foram aprendidos conteúdos relacionados a React Native junto com TypeScript, , utilizando rotas, Async Storage e a Context API. Para treinar o que foi aprendido até o momento foi desenvolvida uma aplicação que utiliza uma API fictícia e nos permite praticar o que vem sendo ensinado.
