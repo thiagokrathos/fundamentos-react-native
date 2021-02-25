@@ -11,11 +11,11 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/belapferreira/fundamentos-react-native">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/thiagokrathos/fundamentos-react-native">
 
-  <img alt="GitHub license" src="https://img.shields.io/github/license/belapferreira/fundamentos-react-native">
+  <img alt="GitHub license" src="https://img.shields.io/github/license/thiagokrathos/fundamentos-react-native">
 
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/belapferreira/fundamentos-react-native?style=social">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/thiagokrathos/fundamentos-react-native?style=social">
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ Seguem as configurações neessárias para visualizar a aplicação em sua máqu
 1. Pelo terminal, acesse o diretório em que deseja ter o repositório clonado e execute o comando a seguir.
 ```bash
 # clonando o repositório
-git clone https://github.com/belapferreira/fundamentos-react-native
+git clone https://github.com/thiagokrathos/fundamentos-react-native
 ```
 
 ### :beginner: Iniciando a aplicação
@@ -108,9 +108,6 @@ Esse projeto foi desenvolvido utilizando os seguintes recursos:
 -  [Styled Components](https://styled-components.com/);
 -  [TypeScript](https://www.typescriptlang.org/).
 
-### :memo: License
-Esse projeto está sob MIT license. Veja [LICENSE](https://github.com/belapferreira/fundamentos-reactjs/blob/master/LICENSE) para mais informações.
-
 ---
 
-Feito por Bela Ferreira :blue_heart: Contato: https://www.linkedin.com/in/belapferreira :blush:
+Feito por Thiago Almeida :blue_heart: Contato: https://www.linkedin.com/in/thiagokrathos :blush:
